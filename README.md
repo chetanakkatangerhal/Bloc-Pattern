@@ -1,3 +1,5 @@
 # Bloc-Pattern
 
-project that implements a bloc pattern. The project will have a counter that can be incremented and decremented by pressing buttons.
+Here is simple Flutter project that implements a bloc pattern.
+project have two buttons "increment" and "decrement"
+which are used to incremented and decremented by pressing buttons.
